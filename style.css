@@ -1,0 +1,113 @@
+* {
+  margin: 0%;
+}
+
+header {
+  background: url(../images/fundo.png);
+  background-size: contain;
+}
+
+section {
+  background: url(../images/fundo.png);
+  background-size:auto
+}
+
+header {
+  display: grid;
+  min-height: 1vh;
+}
+
+#conteudo-um {
+text-align: center;
+  display: grid;
+ place-self: center;
+  margin-bottom: 30px;
+  width: 50%;
+  font-size: 30px;
+  margin-top: 30px;
+
+}
+#TITULO {
+  color: rgba(197, 9, 9, 0.281);
+  text-decoration: dashed;
+}
+
+#cabeçario a {
+  margin: 20px 20px 20px 20px;
+  text-transform: uppercase;
+  text-decoration: dotted;
+  color: rgb(0, 0, 0);
+}
+#conteudo-dois {
+  text-align: center;
+ 
+  display: grid;
+  place-items: center;
+  margin-bottom: 100px;
+  font-size: 30px;
+}
+#conteudo-dois img {
+  width: 790px;
+ place-self: center;
+}
+#Criador {
+  text-decoration: dashed;
+  color: rgb(0, 0, 0);
+}
+#Curiosidade {
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+#sucesso {
+  text-align: center;
+  font-size: 30px;
+}
+#sucesso img {
+  width: 400px;
+}
+
+p {
+  color: rgb(0, 0, 0);
+}
+
+
+#TITULO img {
+  width: 500px;
+}
+
+#TITULO {
+  justify-self: center;
+}
+
+#cabeçario {
+  justify-self: end;
+  padding-bottom: 10px;
+}
+header h1 {
+  text-align: center;
+}
+section {
+  display: grid;
+}
+h1{
+  text-align: center;
+}
+
+#sucesso {
+  text-align: center;
+}
+
+#comeco img{
+  width: 100%;
+  
+  
+}
+#comeco{
+  text-align: center;
+}
+
+#meio { 
+  font-size:30px;
+  text-align: center;
+  margin-bottom: 20px;
+}
